@@ -1,9 +1,9 @@
 {
-  "name": "iso-module-boilerplate",
-  "version": "1.0.6",
-  "description": "Isomorphic (ES6 + NodeJS) module boilerplate, with test framework integration.",
-  "main": "index.node.js",
-  "module": "index.js",
+  "name": "hexab",
+  "version": "1.0.0",
+  "description": "Isomorphic hex to ArrayBuffer and back.",
+  "main": "hexab.node.js",
+  "module": "hexab.js",
   "scripts": {
     "test": "iso-test test.js",
     "preinstall": "gpm -n .. -t .. -u https -d 1 -i .",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/isysd-mirror/iso-module-boilerplate.git"
+    "url": "https://github.com/isysd-mirror/hexab.git"
   },
   "keywords": [
     "isomorphic",
@@ -32,7 +32,7 @@
     "boilerplate"
   ],
   "bugs": {
-    "url": "https://github.com/isysd-mirror/iso-module-boilerplate/issues"
+    "url": "https://github.com/isysd-mirror/hexab/issues"
   },
-  "homepage": "https://github.com/isysd-mirror/iso-module-boilerplate/"
+  "homepage": "https://github.com/isysd-mirror/hexab/"
 }
